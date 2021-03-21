@@ -9,3 +9,4 @@ Git is free software distributed under the GPL
 Git has a mutable index called stage
 di yi ci xiu gai
 di er ci xiu gai
+you lai le xin de xu qiu le
